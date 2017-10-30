@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FootballScores</string>
+    <string name="man_united">Man United</string>
+    <string name="liverpool_fc">Liverpool FC</string>
+    <string name="intital_data">0</string>
+    <string name="text_colon">:</string>
+    <string name="yellow_card">yellow card</string>
+    <string name="score">score</string>
+    <string name="red_card">red card</string>
+    <string name="reset">reset</string>
+</resources>

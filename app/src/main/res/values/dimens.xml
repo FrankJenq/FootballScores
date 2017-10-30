@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_buttons">10dp</dimen>
+    <dimen name="textsize_buttons">10sp</dimen>
+    <dimen name="textsize_title">16sp</dimen>
+    <dimen name="textsize_cards">14sp</dimen>
+    <dimen name="textsize_score">50sp</dimen>
+    <dimen name="padding_title">14dp</dimen>
+</resources>
